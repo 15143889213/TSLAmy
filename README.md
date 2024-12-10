@@ -1,13 +1,13 @@
 # TSLAmy
 
-TSLAmy: a novel amyloid hexapeptide aggregation prediction approach based on two-stage learning
+**TSLAmy: a novel amyloid hexapeptide aggregation prediction approach based on two-stage learning**
 
 In this study, we proposed a computational model, TSLAmy, to predict amyloid hexapeptides using a two- stage learning framework. 
 1) In the first stage, we extracted physicochemical features and sequence features of hexapeptides . 
 2) In the second stage, these features were used as inputs to predict the aggregation potential of hexapeptides. 
 3) We predicted the aggregation potential of all 64,000,000 possible hexapeptides and conducted a detailed analysis of the results. 
 
-● Description of the document
+● **Description of the document**
 
  -- The code folder contains the model code and datasets.
  
@@ -20,7 +20,7 @@ In this study, we proposed a computational model, TSLAmy, to predict amyloid hex
 | 4_stage_two_aggregation prediction.ipynb   | Train the two features extracted from stage one to obtain a predictive classification model   |
 
 
-● Environment
+● **Environment**
 
  -- python=3.10
  
